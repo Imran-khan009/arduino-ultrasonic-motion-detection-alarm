@@ -1,3 +1,5 @@
+[Motion Detection Alarm Code.docx](https://github.com/user-attachments/files/33292040/Motion.Detection.Alarm.Code.docx)
+<img width="1845" height="1163" alt="Motion Detection Alarm Daigram" src="https://github.com/user-attachments/assets/d4e602f9-95f5-432a-973c-7dc5d9684927" />
 # arduino-ultrasonic-motion-detection-alarm
 arduino-ultrasonic-motion-detection-alarm
 2. Components identified from your code
